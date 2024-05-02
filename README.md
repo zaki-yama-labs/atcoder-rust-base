@@ -1,5 +1,3 @@
-<!-- -*- coding:utf-8-unix -*- -->
-
 # AtCoder Rust Base (`ja`)
 
 このリポジトリには[AtCoder][atcoder]コンテスト（競技プログラミング）にRustで参加するためのCargoパッケージテンプレートが用意されています。
